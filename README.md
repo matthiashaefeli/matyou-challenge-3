@@ -1,4 +1,4 @@
-# Welcome to challenge #3
+# Welcome to Javascript challenge #1
 
 To clone or download the challenge Click on 'Code' Copy url and go to your console and type: 
 ```
